@@ -1,0 +1,1 @@
+COPY categories FROM '~/spicy/binomial-baharat-student-code/week05/northwind_data_clean-master/data/customers.csv' DELIMITER ',' CSV HEADER;

@@ -1,4 +1,4 @@
-DROP TABLE if exists countries;
+DROP TABLE if exists categories;
 CREATE TABLE categories (
     categoryID SERIAL PRIMARY KEY,
     categoryName VARCHAR,
